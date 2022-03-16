@@ -1,0 +1,23 @@
+:root {
+    --main-bg-color: #cc5880;
+    --secondary-bg-color: #80659e;
+    --tercery-bg-color: #b89bbf;
+}
+
+.dropdown-menu{
+    min-width: 12rem;
+}
+
+.navbar{
+    background-color: var(--secondary-bg-color);
+}
+
+a{
+    color: black !important;
+}
+
+.ico_nav{
+    width: 50px;
+    height: 50px;
+}
+

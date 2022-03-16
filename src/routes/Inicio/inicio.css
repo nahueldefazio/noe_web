@@ -1,0 +1,17 @@
+:root {
+    --main-bg-color: #cc5880;
+    --secondary-bg-color: #80659e;
+    --tercery-bg-color: #b89bbf;
+}
+
+.body_margin{
+    margin: 0 100px 0 100px;
+    background-color: var(--secondary-bg-color);
+}
+
+.flecha{
+    width: 38%;
+    height: fit-content;
+}
+
+
