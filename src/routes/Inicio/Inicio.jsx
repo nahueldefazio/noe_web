@@ -14,11 +14,11 @@ function Inicio() {
                <img src={noe_intro} alt="noe-bareille-comunicadora digital" style={{width: "1000px"}}/>
             </div>
             <div className="body_margin">
-                <div className="d-flex text-start">
-                    <img src={flecha} alt="icono_flecha" className="flecha"/>
+                <div className="d-flex text-start align-items-center p-5">
+                    <img src={flecha} alt="icono_flecha" className="flecha m-4"/>
                     <div>
-                        <h3> Quien soy?</h3>
-                        <p> Licenciada en Comunicación Social de la UNPS.JB
+                        <h3 className="white"> Quien soy?</h3>
+                        <p className="mt-5 mx-3 white"> Licenciada en Comunicación Social de la UNPS.JB
                             Durante mi carrera descubrí mi pasión por la comunicación
                             digital, en especial por las redes sociales. Eso me llevo
                             a capacitarme y comenzar una Maestría en Comunicación
@@ -26,7 +26,7 @@ function Inicio() {
                             contenido en Redes Sociales.</p>
 
                     </div>
-                    <img  src={noe_foto} alt="Noe Bareille"  className="img_port"/>
+                    <img  src={noe_foto} alt="Noe Bareille"  className="img_port px-4"/>
                 </div>
                 <Servicios/>
                 <Portfolio />
