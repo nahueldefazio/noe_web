@@ -1,5 +1,6 @@
 import React from 'react';
 import './contacto.css'
+import '../../App.css'
 import instagram from "../../imagenes/Instagram.png";
 import facebook from "../../imagenes/Facebook.png";
 
@@ -7,7 +8,7 @@ function Contacto() {
     return (
         <div className="d-flex align-items-center justify-content-around contacto_container" id="contacto">
             <div>
-                <h4>Contacto</h4>
+                <h4 className="white"> Contacto</h4>
                 <p>Email: noeperalta43@gmail.com</p>
                 <p>WhatsApp: 54 9 2974 57-5881</p>
             </div>
