@@ -17,7 +17,7 @@ function ConsultorDigital(props) {
           className="icono_fondo_solo"
         />
       </div>
-      <div className="img_1">
+      <div className="img_1 ">
         <img src={icono_foto} alt="Noe Bareille" />
       </div>
       <div className="body_margin">
