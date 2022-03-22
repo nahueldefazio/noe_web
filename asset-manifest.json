@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/noe-coder/static/css/main.1ae2fd3c.css",
+    "main.js": "/noe-coder/static/js/main.ca02a623.js",
+    "static/media/Noe foto.png": "/noe-coder/static/media/Noe foto.1f9f4bc5610c86862446.png",
+    "static/media/documental.png": "/noe-coder/static/media/documental.f647cbc9c0d6f1858e07.png",
+    "static/media/clinica.png": "/noe-coder/static/media/clinica.909831e4433dab998d87.png",
+    "static/media/cafeteria.png": "/noe-coder/static/media/cafeteria.be8afdb314ea0e54fd25.png",
+    "static/media/uno.png": "/noe-coder/static/media/uno.a8780dd3656e8b3fb951.png",
+    "static/media/Note SIN fondos png-03 (1).png": "/noe-coder/static/media/Note SIN fondos png-03 (1).33f1580b0780845b2b9d.png",
+    "static/media/seguridad.png": "/noe-coder/static/media/seguridad.ca05668c1bd03350c336.png",
+    "static/media/emergencia.png": "/noe-coder/static/media/emergencia.1cbd1eff9a8be9b36292.png",
+    "static/media/amanus.png": "/noe-coder/static/media/amanus.d880abe3daf64269668a.png",
+    "static/media/icono podcast.png": "/noe-coder/static/media/icono podcast.bd96c7b5c64183a99ea1.png",
+    "static/media/icono consultoria.png": "/noe-coder/static/media/icono consultoria.f5385c3caced6b7dd08f.png",
+    "static/media/icono redes sociales.png": "/noe-coder/static/media/icono redes sociales.f7a25f60eda5eae7c5dd.png",
+    "static/media/icono auditotia.png": "/noe-coder/static/media/icono auditotia.8aeb0357556cf05e99c4.png",
+    "static/media/icono asesoria.png": "/noe-coder/static/media/icono asesoria.f382d11f585110872116.png",
+    "index.html": "/noe-coder/index.html",
+    "main.1ae2fd3c.css.map": "/noe-coder/static/css/main.1ae2fd3c.css.map",
+    "main.ca02a623.js.map": "/noe-coder/static/js/main.ca02a623.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ae2fd3c.css",
+    "static/js/main.ca02a623.js"
+  ]
+}
