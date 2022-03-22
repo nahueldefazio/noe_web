@@ -12,6 +12,9 @@
     background-color: var(--secondary-bg-color);
 }
 
+.padding_menu{
+    padding-right: 30px !important;
+}
 a{
     color: black !important;
 }
@@ -21,3 +24,9 @@ a{
     height: 50px;
 }
 
+.fs_navbar{
+    font-size: 20px;
+}
+@media only screen and (max-width: 991px) {
+
+}

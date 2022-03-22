@@ -11,7 +11,8 @@ import './portfolio.css'
 
 function Portfolio(props) {
     return (
-        <div id="portfolio">
+        <div id="portfolio" className="portfolio_body">
+            <h1 className="text-center py-4" style={ {fontWeight: 600}}>Portfolio</h1>
             <div className="portfolio-1 ">
                 <div className="text-center m-5">
                     <img src={ g_amanus } alt="clinica" className="img_port"/>

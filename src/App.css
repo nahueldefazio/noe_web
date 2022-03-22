@@ -1,3 +1,48 @@
 .white{
     color: white !important;
 }
+.margin_title{
+    margin-left: 308px
+}
+.fs_title{
+    font-size: 46px;
+}
+
+.margin_p{
+    margin-right: 200px;
+}
+
+@media only screen and (max-width: 1299px){
+    .img_servicios{
+        height: 120px
+    }
+}
+
+@media only screen and (max-width: 1099px){
+    .margin_p{
+        margin-right: 0;
+    }
+    .m_0{
+        margin-left: 0 !important;
+    }
+    .p_0{
+        padding: 0!important;
+    }
+    .margin_title{
+        margin-left: 210px;
+    }
+}
+@media only screen and (max-width: 499px){
+
+    .margin_title{
+        margin-left: 150px;
+    }
+}
+
+.zoom {
+    transition: transform .5s; /* Animation */
+}
+
+.zoom:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}

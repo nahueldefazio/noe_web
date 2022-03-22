@@ -10,7 +10,7 @@ import facebook from '../../imagenes/Facebook.png'
 function Navbar() {
     return (
         <nav className="navbar navbar-expand-lg body_margin ">
-            <div className="container-fluid">
+            <div className="container-fluid mx-5 mt-4">
 
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
@@ -19,9 +19,9 @@ function Navbar() {
                 </button>
                 <div className="collapse navbar-collapse d-flex justify-content-between" id="navbarNavAltMarkup">
                     <div className="navbar-nav">
-                        <NavLink className="nav-link active white" aria-current="page" to={ '/' }>Inicio</NavLink>
+                        <NavLink className="nav-link active white fs_navbar padding_menu" aria-current="page" to={ '/' }>Inicio</NavLink>
                         <li className="nav-item dropdown">
-                            <a className="nav-link dropdown-toggle white" href="#" id="navbarDropdown" role="button"
+                            <a className="nav-link dropdown-toggle white fs_navbar padding_menu" href="#" id="navbarDropdown" role="button"
                                data-bs-toggle="dropdown" aria-expanded="false">
                                 Servicios
                             </a>
@@ -58,9 +58,9 @@ function Navbar() {
                                 </li>
                             </ul>
                         </li>
-                        <Link className="nav-link white" to="portfolio" spy={ true } smooth={ true } offset={ 50 }
+                        <Link className="nav-link white fs_navbar padding_menu" to="portfolio" spy={ true } smooth={ true } offset={ 50 }
                               duration={ 1000 }>Portfolio</Link>
-                        <Link className="nav-link white" to="contacto" spy={ true } smooth={ true } offset={ 50 }
+                        <Link className="nav-link white fs_navbar" to="contacto" spy={ true } smooth={ true } offset={ 50 }
                               duration={ 1000 }>Contacto</Link>
                     </div>
                     <div>
