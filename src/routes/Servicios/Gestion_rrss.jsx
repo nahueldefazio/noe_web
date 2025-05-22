@@ -1,5 +1,5 @@
 import Contacto from "../Contacto/Contacto";
-import "./Servicios.css";
+import "./servicios.css";
 import icono_solo from "../../imagenes/iso solo.png";
 import icono_foto from "../../imagenes/icono redes sociales.png";
 
@@ -65,7 +65,7 @@ function GestionRrss(props) {
               <li>Calendario con 30 ideas de contenido</li>
               <li>Calendario con fechas y efemérides importantes para tu marca</li>
             </ul>
-           
+
 
             <button type="button" className="btn button_style mt-4">
               Si, quiero consultar

@@ -1,5 +1,5 @@
 import Contacto from "../Contacto/Contacto";
-import "./Servicios.css";
+import "./servicios.css";
 import icono_solo from "../../imagenes/iso solo.png";
 import icono_foto from "../../imagenes/icono auditotia.png";
 

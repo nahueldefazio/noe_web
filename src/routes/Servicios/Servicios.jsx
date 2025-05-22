@@ -4,7 +4,7 @@ import asesoria from "../../imagenes/icono asesoria.png";
 import auditoria from "../../imagenes/icono auditotia.png";
 import gestion_rrss from "../../imagenes/icono redes sociales.png";
 import podcast from "../../imagenes/icono podcast.png";
-import './Servicios.css'
+import './servicios.css'
 import '../../App.css'
 
 function Servicios() {
